@@ -1,25 +1,28 @@
 body {
   background: rgb( 60, 60, 60);
   color: whitesmoke;
+  font-family: monospace;
 }
 h1 {
-  font-family: monospace;
   font-size: 100px;
   text-align-last: center;
 }
 p {
   font-size: 20px;
-  font-family: sans-serif;
-}
-h3 {
-  font-size: 40px;
-  text-align-last: center;
 }
 a {
   text-underline-position: below;
-  color: whitesmoke;
+  color: purple;
 }
-li {
-  font-size: 20px;
-  font-family: sans-serif;
+.cheese_img {
+  width: 200px;
+  height: 200px;
+  margin-left: 800px;
+}
+.bottom_header {
+  margin-bottom: 40px;
+  border: solid 4px;
+  border-color: skyblue;
+  text-align: center;
+  font-size: 18px;
 }
