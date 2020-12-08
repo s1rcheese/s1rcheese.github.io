@@ -7,12 +7,24 @@ h1 {
   font-size: 100px;
   text-align-last: center;
 }
+h2 {
+  font-size: 60px;
+  text-align-last: center;
+}
 p {
   font-size: 20px;
 }
 a {
   text-underline-position: below;
   color: purple;
+}
+li {
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  border: 2px solid;
+  padding: 5px;
+  border-color: greenyellow;
 }
 .cheese_img {
   width: 200px;
