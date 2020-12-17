@@ -44,7 +44,9 @@ li {
 .cheese_img {
   width: 200px;
   height: 200px;
-  margin-left: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .bottom_header {
   margin-bottom: 40px;
