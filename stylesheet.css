@@ -23,11 +23,6 @@ li {
 }
 .projects {
   font-size: 20px;
-  text-align: center;
-  display: inline-block;
-  border: 2px solid;
-  padding: 5px;
-  border-color: greenyellow;
 }
 .nav {
   text-align: center;
